@@ -24,7 +24,7 @@ Version control also known as source control, is the practice of tracking and ma
 
 # Explain in simple terms git rebase and the command for it.
 
-It is an action in git that rewrite commits from one git branch to another branch. It deletes commit from one branch and adding them to another.
+Its an action in git that rewrite commits from one git branch to another branch. It deletes commit from one branch and adding them to another.
  ## git rebase commands.
     1. git rebase base: Performs the standard rebase.
     2.  git rebase – interactive :Performs the interactive rebase.
