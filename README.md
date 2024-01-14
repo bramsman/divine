@@ -4,7 +4,7 @@ Version control also known as source control, is the practice of tracking and ma
 
 # Explain difference between git and github.
 
-    ## git
+ ## git
     It is a tool to track and implement version contorl changes to files
     It is a version control system designed to handle everything from small to large projects with speed and efficiency.
     ## github
@@ -16,7 +16,7 @@ Version control also known as source control, is the practice of tracking and ma
 
 # Explain the difference between git fetch and git pull. 
 
-    ## git fetch
+ ## git fetch
     It downloads the content but not update the local repositories working state, leaving the currrent work intact.
     It is what you do when you want to see what everybody else has been working on.
     ## git pull
