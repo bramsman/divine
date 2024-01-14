@@ -7,7 +7,7 @@ Version control also known as source control, is the practice of tracking and ma
  ## git
     It is a tool to track and implement version contorl changes to files
     It is a version control system designed to handle everything from small to large projects with speed and efficiency.
-    ## github
+ ## github
     It is a site that provides hostings for repositories (documents) and several tools for working with them.
 # List 3 other github alternatives.
     1. AWS CodeCommit
@@ -19,7 +19,7 @@ Version control also known as source control, is the practice of tracking and ma
  ## git fetch
     It downloads the content but not update the local repositories working state, leaving the currrent work intact.
     It is what you do when you want to see what everybody else has been working on.
-    ## git pull
+ ## git pull
     It downloads the remote content for the active local branch and immediately execute git merge to create a merge commit for the new remote content.
 
 # Explain in simple terms git rebase and the command for it.
@@ -37,9 +37,9 @@ Its an action in git that rewrite commits from one git branch to another branch.
     9. git add <project file>: Adds your branch to the repository.
     10:git commit -m "new commit for <branch name>.":   Commits the changes. 
 # Explain in simple terms git cherry pick and the command for it.
-   ## git cherry pick
+  ## git cherry pick
     git cherry-pick in git means choosing a commit from one branch and applying it to another branch.
-   ## git cherry commans 
+  ## git cherry commans 
     1. git cherry-pick: Basic Cherry-Pick.
     2. git cherry-pick -m feature-branch: Cherry-Picking to a Different Branch.
     3. git cherry-pick --no-commit: Applying Changes Without Committing.
