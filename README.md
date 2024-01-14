@@ -9,6 +9,10 @@ Version control also known as source control, is the practice of tracking and ma
     It is a version control system designed to handle everything from small to large projects with speed and efficiency.
     ## github
     It is a site that provides hostings for repositories (documents) and several tools for working with them.
+# List 3 other github alternatives.
+    1. AWS CodeCommit
+    2. OneDev
+    3. Gogs
 
 # Explain the difference between git fetch and git pull. 
 
